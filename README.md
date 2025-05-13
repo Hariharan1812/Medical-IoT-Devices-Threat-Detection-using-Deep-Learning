@@ -105,15 +105,16 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=dri
 
 ------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------
-## Project Overview
+## **Project Overview**
 
 This repository includes the code and setup instructions for implementing our proposed Bi-LSTM, RNN and Logistic Regression intrusion detection model for IoMT systems. The model performs multi-class classification on network traffic to distinguish between 19 attack types and benign traffic, based on the CICIoMT2024 dataset.
 
 
 
 ### Proposed system Architecture.
-![fcn8_page-0001 (1)](https://drive.google.com/file/d/1ZIBsZeqs7Q9v4W2QHLNTcDWNJAqV5CBB/view?usp=drive_link)
+![Bi-LSTM Model](https://drive.google.com/uc?export=view&id=1ZIBsZeqs7Q9v4W2QHLNTcDWNJAqV5CBB)
 
+Bi-LSTM Model Architecture
 
 ## Getting Started
 
@@ -129,7 +130,7 @@ This repository includes the code and setup instructions for implementing our pr
 Download the "CIC IoMT dataset 2024" dataset in CSV format from [here](https://www.unb.ca/cic/datasets/iomt-dataset-2024.html)(details in README_DATA.md).
 After downloading, extract and place the CSV files in the appropriate directories (`data/train/` and `data/test/`).
 
-Then convert those fiels by using the code at "AI_and_Sus_Final---->File_Comversion--->File_Convert_to_parquet".
+Then convert those files by using the code at "AI_and_Sus_Final---->File_Comversion--->File_Convert_to_parquet".
 
 or use the below drive link to access the converted file directly.
 
@@ -139,7 +140,7 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=dri
 
 * To begin training we need to preprocess the data to convert the shape of them and also to make the model run on paticular classification task, to achive that we need to perform the data preprocessing. 
 
-*Navigate to the path "AI_and_Sus_Final---->Models_and_Result". 
+*Navigate to the path "AI_and_Sus_Final---->Models_and_Result--->Preprocessing code". 
 
 *Based on the CLass requirement run the code.
 
@@ -153,7 +154,7 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=dri
 
 * For Compressed model navigate to the path AI_and_Sus_Final---->Models_and_Result---->Class_19----->Model----->Compressed Models
 
-* For Evaluating the results navigate to the path for fetching the result notebook "Same as followed for Class.... ---->Model------>Result".
+* For Evaluating the results navigate to the path for fetching the result notebook "Same as followed for Class.... ---->Model------>Result". To analye the results we need to feed the saved .json files for evaluating. For those files refer Saved model to fetch google drive link.
 
 * For Evaluating the results of the Compressed model navigate to the path for fetching the result notebook "Same as followed for compressed model....----->Result_Compressed".
 
