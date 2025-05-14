@@ -105,16 +105,17 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=dri
 
 ------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------
+
+
 ## **Project Overview**
 
 This repository includes the code and setup instructions for implementing our proposed Bi-LSTM, RNN and Logistic Regression intrusion detection model for IoMT systems. The model performs multi-class classification on network traffic to distinguish between 19 attack types and benign traffic, based on the CICIoMT2024 dataset.
-
-
 
 ### Proposed system Architecture.
 ![Bi-LSTM Model](https://drive.google.com/uc?export=view&id=1ZIBsZeqs7Q9v4W2QHLNTcDWNJAqV5CBB)
 
 Bi-LSTM Model Architecture
+
 
 ## Getting Started
 
@@ -122,7 +123,6 @@ Bi-LSTM Model Architecture
 
 - **Python 3.7+**
 - **Required Libraries:** Install dependencies by running the first cell of each notebook.
-
 
 ### 2. Data Preparation
 
@@ -157,7 +157,6 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=sha
 * For Evaluating the results navigate to the path for fetching the result notebook "Same as followed for Class.... ---->Model------>Result". To analye the results we need to feed the saved .json files for evaluating. For those files refer Saved model to fetch google drive link.
 
 * For Evaluating the results of the Compressed model navigate to the path for fetching the result notebook "Same as followed for compressed model....----->Result_Compressed".
-
 
 ### 5. Saved models
 
