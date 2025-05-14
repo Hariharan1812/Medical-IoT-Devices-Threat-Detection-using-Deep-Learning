@@ -146,7 +146,7 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=sha
 
 ### 4. Training and Evaluation
 
-* There three types of classification proposed in our model and the code for Bi-LSTM, RNN and Logistic regression code files were saved under each Class folder.
+* There are three types of classification proposed in our model and the code for Bi-LSTM, RNN and Logistic regression code files were saved under each Class folder.
 
 * For accessing the models navigatie to "AI_and_Sus_Final---->Models_and_Result---->Class_2----->Model".(Based on our requirement choose the model).
 
@@ -157,6 +157,8 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=sha
 * For Evaluating the results navigate to the path for fetching the result notebook "Same as followed for Class.... ---->Model------>Result". To analye the results we need to feed the saved .json files for evaluating. For those files refer Saved model to fetch google drive link.
 
 * For Evaluating the results of the Compressed model navigate to the path for fetching the result notebook "Same as followed for compressed model....----->Result_Compressed".
+
+* The trained models were also saved as .h5 files and it has been uploaded at google drive and the drive link has been updated below. "AI_and_Sus_Final---->Models_and_Result---->Class_19----->Model----->Results" / "AI_and_Sus_Final---->Models_and_Result---->Class_19----->Model----->Result_Compressed" (Choose the Class respectively)
 
 ### 5. Saved models
 
