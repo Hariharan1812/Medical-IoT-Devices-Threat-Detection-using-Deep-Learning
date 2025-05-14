@@ -148,7 +148,7 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=sha
 
 * There three types of classification proposed in our model and the code for Bi-LSTM, RNN and Logistic regression code files were saved under each Class folder.
 
-* For accessing the models navigatie to "AI_and_Sus_Final---->Models_and_Result---->Class_2----->Model".(Based on our choose the model).
+* For accessing the models navigatie to "AI_and_Sus_Final---->Models_and_Result---->Class_2----->Model".(Based on our requirement choose the model).
 
 * For other classes also do the same by navigating to the respective class names such Class_6 or Class_19.
 
@@ -161,6 +161,6 @@ https://drive.google.com/drive/folders/1e2H5lgDKGrgPTc_Sr-MpZblv7ZwxeBMV?usp=sha
 
 ### 5. Saved models
 
-To get more info on the saved model and also the code navigate to the below google drive link.
+To fetch the saved models .h5 files and .JSON file and also for the code navigate to the below google drive link.
 
 https://drive.google.com/drive/folders/1HhAceYOGYz9L2nwyM748IitFAPEaPnqc?usp=sharing
